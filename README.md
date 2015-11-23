@@ -7,4 +7,4 @@ A Todo app, as the prework for joining CodePath course
 - persist items
 
 # Walkthrough
-TODO: add here
+![Walkthrough](https://github.com/houjieth/codepath-prework/blob/master/demo.gif)
